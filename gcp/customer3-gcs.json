@@ -1,0 +1,7 @@
+{
+    "customer" : "customer3",
+    "type" : "gcp-gcs",
+    "bucket_name" : "customer3",
+    "table_name" : "customer3",
+    "secret_mgr_gcp_key_name" : "tmp/gcp/key"
+}

@@ -1,0 +1,4 @@
+google-cloud-storage
+# pyarrow
+numpy
+pandas

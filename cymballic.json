@@ -1,0 +1,8 @@
+{
+    "aws_account_profile" : "main",
+    "aws_account_id": "00000000000",
+    "aws_region" : "us-east-1",
+    "iam_service_role" : "main-role",
+    "iam_sso_role" : "aws-reserved/sso.amazonaws.com/MainAccount"
+    "s3_bucket" : "s3://metadata/"
+}

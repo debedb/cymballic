@@ -1,0 +1,5 @@
+numpy
+psycopg2
+pandas
+boto3
+# pyarrow

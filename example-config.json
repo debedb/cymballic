@@ -1,0 +1,9 @@
+{
+    "customer" : "customer1",
+    "host"     : "localhost",
+    "username" : "postgres",
+    "password" : "password",
+    "database" : "postgres",
+    "port" : 5432,
+    "aws_profile" : "customer1"
+}

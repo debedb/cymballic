@@ -1,0 +1,9 @@
+{
+    "customer" : "customer2",
+    "type" : "postgres",
+    "host": "rds.xxxxus-east-1.rds.amazonaws.com",
+    "username" : "postgres",
+    "password" : "password"
+    "database" : "customer2",
+    "aws_profile" : "customer2"    
+}

@@ -1,0 +1,5 @@
+{
+    "customer" : "customer1",
+    "type" : "parquet",
+    "aws_profile" : "customer1"
+}
